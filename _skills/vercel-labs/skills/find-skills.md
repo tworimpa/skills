@@ -6,6 +6,9 @@ repo: skills
 id: find-skills
 permalink: /vercel-labs/skills/find-skills/
 tags: [search, core]
+installs: "142K"
+security_audits: "Passed"
+installed_on: "Mar 15, 2026"
 ---
 
 ## When to Use This Skill

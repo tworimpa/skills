@@ -28,6 +28,27 @@ layout: default
       </div>
       <span class="copy-feedback" id="copyFeedback">Copied!</span>
     </div>
+
+    <!-- Stats Grid -->
+    <div class="skill-stats">
+      <div class="stat-item">
+        <span class="stat-label">Installs</span>
+        <span class="stat-value">{{ page.installs | default: "N/A" }}</span>
+      </div>
+      <div class="stat-item">
+        <span class="stat-label">Security Audits</span>
+        <span class="stat-value audit-{{ page.security_audits | downcase | default: 'unknown' }}">
+          {% if page.security_audits == 'Passed' %}
+            <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="audit-icon"><path d="M22 11.08V12a10 10 10 0 1-5.93 9.14"></path><polyline points="22 4 12 14.01 9 11.01"></polyline></svg>
+          {% endif %}
+          {{ page.security_audits | default: "Not Audited" }}
+        </span>
+      </div>
+      <div class="stat-item">
+        <span class="stat-label">Last Updated</span>
+        <span class="stat-value">{{ page.installed_on | default: "Unknown" }}</span>
+      </div>
+    </div>
   </div>
 
   <script>

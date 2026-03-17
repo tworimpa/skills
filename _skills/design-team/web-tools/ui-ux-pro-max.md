@@ -6,6 +6,9 @@ repo: web-tools
 id: ui-ux-pro-max
 permalink: /design-team/web-tools/ui-ux-pro-max/
 tags: [design, frontend, css]
+installs: "85K"
+security_audits: "Passed"
+installed_on: "Feb 28, 2026"
 ---
 
 ## Overview

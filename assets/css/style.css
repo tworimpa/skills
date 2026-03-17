@@ -361,6 +361,56 @@ footer {
   transform: translateY(0);
 }
 
+/* Stats Grid Styles */
+.skill-stats {
+  display: flex;
+  justify-content: center;
+  gap: 3rem;
+  margin-top: 2.5rem;
+  padding-top: 2rem;
+  border-top: 1px solid var(--card-border);
+}
+
+.stat-item {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 0.5rem;
+}
+
+.stat-label {
+  font-size: 0.85rem;
+  color: var(--text-muted);
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+  font-weight: 600;
+}
+
+.stat-value {
+  font-size: 1.25rem;
+  font-weight: 700;
+  color: var(--text-main);
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+}
+
+.stat-value.audit-passed {
+  color: #10b981; /* Tailwind emerald-500 equivalent */
+}
+
+.audit-icon {
+  flex-shrink: 0;
+}
+
+/* Responsive adjustments for stats */
+@media (max-width: 600px) {
+  .skill-stats {
+    flex-direction: column;
+    gap: 1.5rem;
+  }
+}
+
 .skill-content {
   padding: 3rem;
   border-radius: 24px;
