@@ -1,0 +1,12 @@
+<a href="{{ include.skill.url | relative_url }}" class="skill-card glass" data-name="{{ include.skill.title | downcase }}" data-tags="{{ include.skill.tags | join: ',' | downcase }}">
+  <div class="skill-header">
+    <h3 class="skill-title">{{ include.skill.title }}</h3>
+    <span class="skill-author">@{{ include.skill.author }}/{{ include.skill.repo }}</span>
+  </div>
+  <p class="skill-description">{{ include.skill.description }}</p>
+  <div class="skill-tags">
+    {% for tag in include.skill.tags %}
+      <span class="tag">{{ tag }}</span>
+    {% endfor %}
+  </div>
+</a>

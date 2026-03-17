@@ -1,0 +1,26 @@
+---
+layout: default
+---
+
+<div class="skill-detail-container">
+  <div class="skill-detail-header glass">
+    <div class="skill-meta">
+      <span class="skill-author">@{{ page.author }} / {{ page.repo }}</span>
+      <h1 class="skill-title-large">{{ page.title }}</h1>
+      <p class="skill-desc-large">{{ page.description }}</p>
+    </div>
+    <div class="skill-tags">
+      {% for tag in page.tags %}
+        <span class="tag">{{ tag }}</span>
+      {% endfor %}
+    </div>
+  </div>
+
+  <div class="skill-content glass">
+    {{ content }}
+  </div>
+
+  <div class="skill-actions">
+    <a href="{{ '/' | relative_url }}" class="back-link">&larr; Back to Skills</a>
+  </div>
+</div>

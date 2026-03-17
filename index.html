@@ -1,0 +1,55 @@
+---
+layout: default
+title: The Agent Skills Directory
+---
+
+<section class="hero">
+  <h1>Discover AI Agent Skills</h1>
+  <p>Explore, search, and integrate powerful capabilities into your workflows.</p>
+  
+  <div class="search-container">
+    <input type="text" id="searchInput" class="search-input glass" placeholder="Search skills by name or tag (e.g. 'design', 'seo')...">
+  </div>
+</section>
+
+<section class="skills-directory">
+  <div class="skills-grid" id="skillsGrid">
+    {% for skill in site.skills %}
+      {% include skill_card.html skill=skill %}
+    {% endfor %}
+    <div class="no-results" id="noResultsMsg">
+      No skills found matching your search. Try different keywords.
+    </div>
+  </div>
+</section>
+
+<script>
+  document.addEventListener('DOMContentLoaded', () => {
+    const searchInput = document.getElementById('searchInput');
+    const cards = document.querySelectorAll('.skill-card');
+    const noResultsMsg = document.getElementById('noResultsMsg');
+
+    searchInput.addEventListener('input', (e) => {
+      const searchTerm = e.target.value.toLowerCase().trim();
+      let visibleCount = 0;
+
+      cards.forEach(card => {
+        const name = card.getAttribute('data-name');
+        const tags = card.getAttribute('data-tags');
+        
+        if (name.includes(searchTerm) || tags.includes(searchTerm)) {
+          card.style.display = 'flex';
+          visibleCount++;
+        } else {
+          card.style.display = 'none';
+        }
+      });
+
+      if (visibleCount === 0) {
+        noResultsMsg.style.display = 'block';
+      } else {
+        noResultsMsg.style.display = 'none';
+      }
+    });
+  });
+</script>
