@@ -3,7 +3,7 @@ title: Skill Component 47
 description: This is an automatically generated dummy skill for testing the registry grid layout and search functionalities.
 author: open-source-heroes
 repo: extensions
-id: skill-component-47
+skill_id: skill-component-47
 permalink: /open-source-heroes/extensions/skill-component-47/
 tags: [security, devops, seo]
 installs: "249K"

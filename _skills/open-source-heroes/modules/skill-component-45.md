@@ -3,7 +3,7 @@ title: Skill Component 45
 description: This is an automatically generated dummy skill for testing the registry grid layout and search functionalities.
 author: open-source-heroes
 repo: modules
-id: skill-component-45
+skill_id: skill-component-45
 permalink: /open-source-heroes/modules/skill-component-45/
 tags: [backend, database, seo]
 installs: "206K"

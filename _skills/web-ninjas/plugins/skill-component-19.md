@@ -3,7 +3,7 @@ title: Skill Component 19
 description: This is an automatically generated dummy skill for testing the registry grid layout and search functionalities.
 author: web-ninjas
 repo: plugins
-id: skill-component-19
+skill_id: skill-component-19
 permalink: /web-ninjas/plugins/skill-component-19/
 tags: [database, backend, frontend]
 installs: "40K"

@@ -3,7 +3,7 @@ title: Skill Component 15
 description: This is an automatically generated dummy skill for testing the registry grid layout and search functionalities.
 author: open-source-heroes
 repo: plugins
-id: skill-component-15
+skill_id: skill-component-15
 permalink: /open-source-heroes/plugins/skill-component-15/
 tags: [backend]
 installs: "651K"

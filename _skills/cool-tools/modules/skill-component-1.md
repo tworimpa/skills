@@ -3,7 +3,7 @@ title: Skill Component 1
 description: This is an automatically generated dummy skill for testing the registry grid layout and search functionalities.
 author: cool-tools
 repo: modules
-id: skill-component-1
+skill_id: skill-component-1
 permalink: /cool-tools/modules/skill-component-1/
 tags: [database, testing, backend]
 installs: "425K"

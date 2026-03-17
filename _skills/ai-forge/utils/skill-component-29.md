@@ -3,7 +3,7 @@ title: Skill Component 29
 description: This is an automatically generated dummy skill for testing the registry grid layout and search functionalities.
 author: ai-forge
 repo: utils
-id: skill-component-29
+skill_id: skill-component-29
 permalink: /ai-forge/utils/skill-component-29/
 tags: [frontend, cli, database]
 installs: "194K"

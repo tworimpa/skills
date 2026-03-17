@@ -3,7 +3,7 @@ title: Skill Component 25
 description: This is an automatically generated dummy skill for testing the registry grid layout and search functionalities.
 author: ai-forge
 repo: modules
-id: skill-component-25
+skill_id: skill-component-25
 permalink: /ai-forge/modules/skill-component-25/
 tags: [backend, testing, seo]
 installs: "518K"

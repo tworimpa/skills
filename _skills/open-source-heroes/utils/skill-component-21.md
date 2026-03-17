@@ -3,7 +3,7 @@ title: Skill Component 21
 description: This is an automatically generated dummy skill for testing the registry grid layout and search functionalities.
 author: open-source-heroes
 repo: utils
-id: skill-component-21
+skill_id: skill-component-21
 permalink: /open-source-heroes/utils/skill-component-21/
 tags: [design, cli]
 installs: "806K"

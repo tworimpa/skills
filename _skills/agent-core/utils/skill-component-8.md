@@ -3,7 +3,7 @@ title: Skill Component 8
 description: This is an automatically generated dummy skill for testing the registry grid layout and search functionalities.
 author: agent-core
 repo: utils
-id: skill-component-8
+skill_id: skill-component-8
 permalink: /agent-core/utils/skill-component-8/
 tags: [database]
 installs: "390K"

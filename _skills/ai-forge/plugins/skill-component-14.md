@@ -3,7 +3,7 @@ title: Skill Component 14
 description: This is an automatically generated dummy skill for testing the registry grid layout and search functionalities.
 author: ai-forge
 repo: plugins
-id: skill-component-14
+skill_id: skill-component-14
 permalink: /ai-forge/plugins/skill-component-14/
 tags: [database]
 installs: "320K"

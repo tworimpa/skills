@@ -3,7 +3,7 @@ title: Skill Component 13
 description: This is an automatically generated dummy skill for testing the registry grid layout and search functionalities.
 author: cool-tools
 repo: modules
-id: skill-component-13
+skill_id: skill-component-13
 permalink: /cool-tools/modules/skill-component-13/
 tags: [devops, database]
 installs: "570K"

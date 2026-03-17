@@ -3,7 +3,7 @@ title: Skill Component 23
 description: This is an automatically generated dummy skill for testing the registry grid layout and search functionalities.
 author: web-ninjas
 repo: extensions
-id: skill-component-23
+skill_id: skill-component-23
 permalink: /web-ninjas/extensions/skill-component-23/
 tags: [devops, cli]
 installs: "726K"

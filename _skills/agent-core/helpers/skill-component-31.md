@@ -3,7 +3,7 @@ title: Skill Component 31
 description: This is an automatically generated dummy skill for testing the registry grid layout and search functionalities.
 author: agent-core
 repo: helpers
-id: skill-component-31
+skill_id: skill-component-31
 permalink: /agent-core/helpers/skill-component-31/
 tags: [security, database]
 installs: "534K"

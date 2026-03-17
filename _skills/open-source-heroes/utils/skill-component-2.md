@@ -3,7 +3,7 @@ title: Skill Component 2
 description: This is an automatically generated dummy skill for testing the registry grid layout and search functionalities.
 author: open-source-heroes
 repo: utils
-id: skill-component-2
+skill_id: skill-component-2
 permalink: /open-source-heroes/utils/skill-component-2/
 tags: [frontend]
 installs: "225K"

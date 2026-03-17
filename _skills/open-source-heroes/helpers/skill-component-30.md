@@ -3,7 +3,7 @@ title: Skill Component 30
 description: This is an automatically generated dummy skill for testing the registry grid layout and search functionalities.
 author: open-source-heroes
 repo: helpers
-id: skill-component-30
+skill_id: skill-component-30
 permalink: /open-source-heroes/helpers/skill-component-30/
 tags: [devops, ai, seo]
 installs: "95K"

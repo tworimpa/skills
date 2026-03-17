@@ -3,7 +3,7 @@ title: Skill Component 43
 description: This is an automatically generated dummy skill for testing the registry grid layout and search functionalities.
 author: cool-tools
 repo: utils
-id: skill-component-43
+skill_id: skill-component-43
 permalink: /cool-tools/utils/skill-component-43/
 tags: [testing, database, cli]
 installs: "38K"

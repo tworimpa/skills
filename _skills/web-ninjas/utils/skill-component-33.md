@@ -3,7 +3,7 @@ title: Skill Component 33
 description: This is an automatically generated dummy skill for testing the registry grid layout and search functionalities.
 author: web-ninjas
 repo: utils
-id: skill-component-33
+skill_id: skill-component-33
 permalink: /web-ninjas/utils/skill-component-33/
 tags: [testing, seo]
 installs: "492K"

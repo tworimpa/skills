@@ -3,7 +3,7 @@ title: Skill Component 27
 description: This is an automatically generated dummy skill for testing the registry grid layout and search functionalities.
 author: open-source-heroes
 repo: helpers
-id: skill-component-27
+skill_id: skill-component-27
 permalink: /open-source-heroes/helpers/skill-component-27/
 tags: [database, devops]
 installs: "416K"

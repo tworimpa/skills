@@ -3,7 +3,7 @@ title: Skill Component 24
 description: This is an automatically generated dummy skill for testing the registry grid layout and search functionalities.
 author: agent-core
 repo: extensions
-id: skill-component-24
+skill_id: skill-component-24
 permalink: /agent-core/extensions/skill-component-24/
 tags: [frontend, backend]
 installs: "668K"

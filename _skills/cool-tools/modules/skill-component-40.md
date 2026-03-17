@@ -3,7 +3,7 @@ title: Skill Component 40
 description: This is an automatically generated dummy skill for testing the registry grid layout and search functionalities.
 author: cool-tools
 repo: modules
-id: skill-component-40
+skill_id: skill-component-40
 permalink: /cool-tools/modules/skill-component-40/
 tags: [seo, design]
 installs: "326K"

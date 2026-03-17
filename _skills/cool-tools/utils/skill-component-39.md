@@ -3,7 +3,7 @@ title: Skill Component 39
 description: This is an automatically generated dummy skill for testing the registry grid layout and search functionalities.
 author: cool-tools
 repo: utils
-id: skill-component-39
+skill_id: skill-component-39
 permalink: /cool-tools/utils/skill-component-39/
 tags: [cli, devops, seo]
 installs: "774K"

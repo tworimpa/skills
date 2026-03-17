@@ -3,7 +3,7 @@ title: Skill Component 17
 description: This is an automatically generated dummy skill for testing the registry grid layout and search functionalities.
 author: web-ninjas
 repo: plugins
-id: skill-component-17
+skill_id: skill-component-17
 permalink: /web-ninjas/plugins/skill-component-17/
 tags: [devops, design]
 installs: "39K"

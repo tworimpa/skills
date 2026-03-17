@@ -3,7 +3,7 @@ title: Skill Component 34
 description: This is an automatically generated dummy skill for testing the registry grid layout and search functionalities.
 author: agent-core
 repo: plugins
-id: skill-component-34
+skill_id: skill-component-34
 permalink: /agent-core/plugins/skill-component-34/
 tags: [cli, design]
 installs: "277K"

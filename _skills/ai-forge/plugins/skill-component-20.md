@@ -3,7 +3,7 @@ title: Skill Component 20
 description: This is an automatically generated dummy skill for testing the registry grid layout and search functionalities.
 author: ai-forge
 repo: plugins
-id: skill-component-20
+skill_id: skill-component-20
 permalink: /ai-forge/plugins/skill-component-20/
 tags: [testing, database]
 installs: "839K"

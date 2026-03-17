@@ -3,7 +3,7 @@ title: Skill Component 37
 description: This is an automatically generated dummy skill for testing the registry grid layout and search functionalities.
 author: ai-forge
 repo: modules
-id: skill-component-37
+skill_id: skill-component-37
 permalink: /ai-forge/modules/skill-component-37/
 tags: [database, cli]
 installs: "139K"

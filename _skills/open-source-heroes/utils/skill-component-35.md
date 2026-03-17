@@ -3,7 +3,7 @@ title: Skill Component 35
 description: This is an automatically generated dummy skill for testing the registry grid layout and search functionalities.
 author: open-source-heroes
 repo: utils
-id: skill-component-35
+skill_id: skill-component-35
 permalink: /open-source-heroes/utils/skill-component-35/
 tags: [ai, testing]
 installs: "742K"

@@ -3,7 +3,7 @@ title: Skill Component 22
 description: This is an automatically generated dummy skill for testing the registry grid layout and search functionalities.
 author: open-source-heroes
 repo: extensions
-id: skill-component-22
+skill_id: skill-component-22
 permalink: /open-source-heroes/extensions/skill-component-22/
 tags: [backend, design]
 installs: "684K"

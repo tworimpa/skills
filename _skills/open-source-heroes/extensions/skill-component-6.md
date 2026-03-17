@@ -3,7 +3,7 @@ title: Skill Component 6
 description: This is an automatically generated dummy skill for testing the registry grid layout and search functionalities.
 author: open-source-heroes
 repo: extensions
-id: skill-component-6
+skill_id: skill-component-6
 permalink: /open-source-heroes/extensions/skill-component-6/
 tags: [backend]
 installs: "820K"

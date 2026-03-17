@@ -3,7 +3,7 @@ title: Skill Component 26
 description: This is an automatically generated dummy skill for testing the registry grid layout and search functionalities.
 author: agent-core
 repo: modules
-id: skill-component-26
+skill_id: skill-component-26
 permalink: /agent-core/modules/skill-component-26/
 tags: [testing, security]
 installs: "413K"

@@ -3,7 +3,7 @@ title: Skill Component 41
 description: This is an automatically generated dummy skill for testing the registry grid layout and search functionalities.
 author: ai-forge
 repo: helpers
-id: skill-component-41
+skill_id: skill-component-41
 permalink: /ai-forge/helpers/skill-component-41/
 tags: [frontend]
 installs: "191K"

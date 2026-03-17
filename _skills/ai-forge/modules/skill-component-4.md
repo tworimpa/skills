@@ -3,7 +3,7 @@ title: Skill Component 4
 description: This is an automatically generated dummy skill for testing the registry grid layout and search functionalities.
 author: ai-forge
 repo: modules
-id: skill-component-4
+skill_id: skill-component-4
 permalink: /ai-forge/modules/skill-component-4/
 tags: [frontend, database]
 installs: "428K"

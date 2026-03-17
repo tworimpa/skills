@@ -3,7 +3,7 @@ title: Skill Component 3
 description: This is an automatically generated dummy skill for testing the registry grid layout and search functionalities.
 author: cool-tools
 repo: utils
-id: skill-component-3
+skill_id: skill-component-3
 permalink: /cool-tools/utils/skill-component-3/
 tags: [database, security]
 installs: "561K"

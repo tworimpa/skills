@@ -3,7 +3,7 @@ title: Skill Component 5
 description: This is an automatically generated dummy skill for testing the registry grid layout and search functionalities.
 author: agent-core
 repo: plugins
-id: skill-component-5
+skill_id: skill-component-5
 permalink: /agent-core/plugins/skill-component-5/
 tags: [database, cli]
 installs: "592K"

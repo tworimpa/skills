@@ -3,7 +3,7 @@ title: Skill Component 42
 description: This is an automatically generated dummy skill for testing the registry grid layout and search functionalities.
 author: open-source-heroes
 repo: utils
-id: skill-component-42
+skill_id: skill-component-42
 permalink: /open-source-heroes/utils/skill-component-42/
 tags: [database, backend]
 installs: "133K"

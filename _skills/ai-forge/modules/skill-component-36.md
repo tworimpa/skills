@@ -3,7 +3,7 @@ title: Skill Component 36
 description: This is an automatically generated dummy skill for testing the registry grid layout and search functionalities.
 author: ai-forge
 repo: modules
-id: skill-component-36
+skill_id: skill-component-36
 permalink: /ai-forge/modules/skill-component-36/
 tags: [frontend, security]
 installs: "81K"

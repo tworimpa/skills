@@ -3,7 +3,7 @@ title: Skill Component 16
 description: This is an automatically generated dummy skill for testing the registry grid layout and search functionalities.
 author: cool-tools
 repo: utils
-id: skill-component-16
+skill_id: skill-component-16
 permalink: /cool-tools/utils/skill-component-16/
 tags: [frontend, cli]
 installs: "688K"

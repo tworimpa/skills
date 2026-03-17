@@ -3,7 +3,7 @@ title: Skill Component 46
 description: This is an automatically generated dummy skill for testing the registry grid layout and search functionalities.
 author: web-ninjas
 repo: utils
-id: skill-component-46
+skill_id: skill-component-46
 permalink: /web-ninjas/utils/skill-component-46/
 tags: [backend, devops]
 installs: "189K"

@@ -3,7 +3,7 @@ title: Skill Component 18
 description: This is an automatically generated dummy skill for testing the registry grid layout and search functionalities.
 author: web-ninjas
 repo: helpers
-id: skill-component-18
+skill_id: skill-component-18
 permalink: /web-ninjas/helpers/skill-component-18/
 tags: [design, seo]
 installs: "263K"

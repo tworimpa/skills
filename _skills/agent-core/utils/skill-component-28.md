@@ -3,7 +3,7 @@ title: Skill Component 28
 description: This is an automatically generated dummy skill for testing the registry grid layout and search functionalities.
 author: agent-core
 repo: utils
-id: skill-component-28
+skill_id: skill-component-28
 permalink: /agent-core/utils/skill-component-28/
 tags: [seo, frontend]
 installs: "730K"

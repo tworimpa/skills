@@ -3,7 +3,7 @@ title: Skill Component 7
 description: This is an automatically generated dummy skill for testing the registry grid layout and search functionalities.
 author: agent-core
 repo: helpers
-id: skill-component-7
+skill_id: skill-component-7
 permalink: /agent-core/helpers/skill-component-7/
 tags: [cli, testing, devops]
 installs: "906K"

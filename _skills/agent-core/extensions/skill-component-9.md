@@ -3,7 +3,7 @@ title: Skill Component 9
 description: This is an automatically generated dummy skill for testing the registry grid layout and search functionalities.
 author: agent-core
 repo: extensions
-id: skill-component-9
+skill_id: skill-component-9
 permalink: /agent-core/extensions/skill-component-9/
 tags: [ai, database]
 installs: "24K"

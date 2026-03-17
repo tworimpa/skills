@@ -3,7 +3,7 @@ title: Skill Component 49
 description: This is an automatically generated dummy skill for testing the registry grid layout and search functionalities.
 author: open-source-heroes
 repo: modules
-id: skill-component-49
+skill_id: skill-component-49
 permalink: /open-source-heroes/modules/skill-component-49/
 tags: [cli]
 installs: "769K"

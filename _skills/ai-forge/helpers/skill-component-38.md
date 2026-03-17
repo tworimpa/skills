@@ -3,7 +3,7 @@ title: Skill Component 38
 description: This is an automatically generated dummy skill for testing the registry grid layout and search functionalities.
 author: ai-forge
 repo: helpers
-id: skill-component-38
+skill_id: skill-component-38
 permalink: /ai-forge/helpers/skill-component-38/
 tags: [backend, testing]
 installs: "190K"

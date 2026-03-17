@@ -3,7 +3,7 @@ title: Skill Component 48
 description: This is an automatically generated dummy skill for testing the registry grid layout and search functionalities.
 author: web-ninjas
 repo: extensions
-id: skill-component-48
+skill_id: skill-component-48
 permalink: /web-ninjas/extensions/skill-component-48/
 tags: [devops]
 installs: "199K"
