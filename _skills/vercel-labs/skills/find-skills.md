@@ -3,6 +3,7 @@ title: Find Skills
 description: A core skill for searching other capabilities within the registry.
 author: vercel-labs
 repo: skills
+id: find-skills
 permalink: /vercel-labs/skills/find-skills/
 tags: [search, core]
 ---

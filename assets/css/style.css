@@ -282,6 +282,83 @@ footer {
 
 .skill-detail-header .skill-tags {
   justify-content: center;
+  margin-bottom: 2rem;
+}
+
+/* Install Command Styles */
+.install-command-wrapper {
+  position: relative;
+  max-width: 600px;
+  margin: 0 auto;
+}
+
+.install-command {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  background: rgba(15, 23, 42, 0.8);
+  padding: 1rem 1.5rem;
+  border-radius: 12px;
+  font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace;
+  font-size: 0.95rem;
+  color: var(--text-main);
+  border: 1px solid var(--card-border);
+  box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.2);
+}
+
+.command-text {
+  overflow-x: auto;
+  white-space: nowrap;
+  margin-right: 1rem;
+}
+
+/* Scrollbar hiding for the command text if it overflows */
+.command-text::-webkit-scrollbar {
+  display: none;
+}
+.command-text {
+  -ms-overflow-style: none;  /* IE and Edge */
+  scrollbar-width: none;  /* Firefox */
+}
+
+.copy-button {
+  background: transparent;
+  border: none;
+  color: var(--text-muted);
+  cursor: pointer;
+  padding: 0.5rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border-radius: 8px;
+  transition: all 0.2s;
+  flex-shrink: 0;
+}
+
+.copy-button:hover {
+  background: rgba(56, 189, 248, 0.1);
+  color: var(--accent-color);
+}
+
+.copy-feedback {
+  position: absolute;
+  top: -30px;
+  right: 10px;
+  background: var(--accent-color);
+  color: #0f172a;
+  padding: 0.25rem 0.75rem;
+  border-radius: 9999px;
+  font-size: 0.8rem;
+  font-weight: 700;
+  opacity: 0;
+  transform: translateY(10px);
+  transition: all 0.3s cubic-bezier(0.175, 0.885, 0.32, 1.275);
+  pointer-events: none;
+}
+
+.copy-feedback.show {
+  opacity: 1;
+  transform: translateY(0);
 }
 
 .skill-content {
