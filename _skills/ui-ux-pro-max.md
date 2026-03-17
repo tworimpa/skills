@@ -3,6 +3,7 @@ title: UI/UX Pro Max
 description: Advanced styling capabilities utilizing CSS variables and modern layout techniques.
 author: design-team
 repo: web-tools
+permalink: /design-team/web-tools/ui-ux-pro-max/
 tags: [design, frontend, css]
 ---
 
