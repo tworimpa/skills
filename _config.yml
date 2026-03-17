@@ -8,3 +8,10 @@ theme: null
 collections:
   skills:
     output: true
+
+defaults:
+  - scope:
+      path: ""
+      type: "skills"
+    values:
+      layout: "skill_detail"
